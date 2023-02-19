@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 # Hi, I'm Takumi Negi
 -->
 
-### Status 
-
 <div align="center">
 
   <!-- リポジトリステータス -->
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=welshonion&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img height=170 src="https://github-readme-stats.vercel.app/api?username=welshonion&count_private=true&show_icons=true&theme=tokyonight"/>
 
   <!-- ソースコード統計 -->
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=welshonion&layout=compact&theme=tokyonight"/>
+  <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=welshonion&layout=compact&theme=tokyonight"/>
 
 </div>
