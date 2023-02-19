@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=welshonion&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/welshonion/)
+<img height=100 src="https://github-readme-stats.vercel.app/api?username=welshonion&count_private=true&show_icons=true&theme=tokyonight"/>
 
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welshonion&layout=compact&theme=tokyonight)](https://github.com/welshonion/)
